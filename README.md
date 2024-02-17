@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/ShankarSon55682?logo=twitter&style=fo
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="36" height="36" alt="Git" />
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/sql/"  rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
   </a>
 </p>
