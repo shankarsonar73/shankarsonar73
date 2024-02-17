@@ -16,9 +16,7 @@ src="https://img.shields.io/twitter/follow/ShankarSon55682?logo=twitter&style=fo
 
 ### Skills
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="36" height="36" alt="C" />
-  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="36" height="36" alt="C" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="36" height="36" alt="C++" />
   </a>
