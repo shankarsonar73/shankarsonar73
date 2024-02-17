@@ -1,4 +1,4 @@
-<img src="https://shankarhere.blob.core.windows.net/shankarsonar/124.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://shankarhere.blob.core.windows.net/shankarsonar/ProfileGit.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 
 Hi 👋 My name is Shankar Sonar
