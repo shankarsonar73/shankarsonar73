@@ -1,14 +1,16 @@
 Hi 👋 My name is Shankar Sonar
 ================================
 
-Full Stack Web3.0 Developer
+Front-End  Developer
+Android Developer
 ----------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sign.ankit14@gmail.com](mailto:sign.ankit14@gmail.com)
-* 🤝  I'm open to collaborating on Ethereum Blockchain related Projects
+* ✉️  You can contact me at [sign.2022bcs504@sggs.ac.in](mailto:sign.2022bcs504@sggs.ac.in)
+* 🤝  I'm open to collaborating on Blockchain related Projects
 
-<a href="https://www.twitter.com/ankit7241" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/ankit7241" target="_blank" rel="noreferrer">
+<img
 src="https://img.shields.io/twitter/follow/ankit7241?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
 
