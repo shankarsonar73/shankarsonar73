@@ -4,7 +4,7 @@
 Hi 👋 My name is Shankar Sonar
 ================================
 
-Front-End  Developer
+Front-End & 
 Android Developer
 ----------------
 
@@ -37,7 +37,7 @@ src="https://img.shields.io/twitter/follow/ShankarSon55682?logo=twitter&style=fo
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/ankit7241" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/ankit7241" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/ankit7241" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/shankar143#1008" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/ShankarSon55682" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/shankar-sonar-68243b19b" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
