@@ -12,7 +12,7 @@ Android Developer
 * ✉️  You can contact me at [sign.2022bcs504@sggs.ac.in](mailto:sign.2022bcs504@sggs.ac.in)
 * 🤝  I'm open to collaborating on Blockchain related Projects
 
-<a href="https://www.twitter.com/ankit7241" target="_blank" >
+<a href="https://www.twitter.com/ShankarSon55682" target="_blank" >
 <img
 src="https://img.shields.io/twitter/follow/ShankarSon55682?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
